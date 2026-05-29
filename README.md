@@ -1,6 +1,7 @@
 # superstore-sales-analysis
 
-Exploratory data analysis of a US retail dataset (9,994 orders, 2014–2017).
+Exploratory data analysis of a US retail dataset (2014–2017). Fictional US retail store with 9,994 orders across 4 regions (West, East, Central, South)
+and 3 product categories (Technology, Furniture, Office Supplies).
 
 ## Questions Explored
 - Which year had the highest revenue?
